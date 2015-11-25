@@ -220,3 +220,6 @@
 [submodule "bundle/vundle"]
 	path = bundle/vundle
 	url = https://github.com/vim-scripts/vundle.git
+[submodule "bundle/ftl-vim-syntax"]
+	path = bundle/ftl-vim-syntax
+	url = https://github.com/chaquotay/ftl-vim-syntax.git
